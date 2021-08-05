@@ -1,0 +1,17 @@
+.btn-banner {
+  display: inline-block;
+  background-color: #f40bc2;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+
+
+}
+
+.btn-banner:hover {
+  background-color: pink;
+  border: 1px solid black;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color:black;
+}

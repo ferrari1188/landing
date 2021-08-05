@@ -1,0 +1,33 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&family=Roboto&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Utilities */
+@import url("components/banners.css");
+@import url("components/btns.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+@import url("components/container.css");
+
+body {
+  background-color: pink;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: Lora;
+}
+
+p {
+  font-family: Roboto;
+}
+
+a {
+  text-decoration: none;
+}
+.text-center{
+  text-align: center;
+}
